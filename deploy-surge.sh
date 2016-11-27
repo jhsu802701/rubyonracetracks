@@ -21,23 +21,11 @@ surge list
 # BEGIN: SET PERMANENT NAME HERE 
 ################################
 
-SURGE_NAME='blahblahblah'
+SURGE_NAME='rubyonracetracks'
 
 ##############################
 # END: SET PERMANENT NAME HERE 
 ##############################
-
-###########################
-# BEGIN: SET TEMPORARY NAME
-###########################
-
-# Get time as a UNIX timestamp (seconds elapsed since Jan 1, 1970 0:00 UTC)
-N="$(date +%s)"
-SURGE_NAME="surge${N}" # Default name of database
-
-#########################
-# END: SET TEMPORARY NAME
-#########################
 
 # Deployment
 URL=$SURGE_NAME.surge.sh
