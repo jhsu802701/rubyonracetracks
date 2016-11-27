@@ -23,12 +23,3 @@ lastmod: 2014-07-07T16:57:30+05:30
 	<p class="description">{{ post.excerpt | strip_html}}</p>
 </div>
 {% endfor %}
-<div class="unit whole paginator">
-	{% if paginator.previous_page %}
-	<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-	{% endif %}
-	<span>Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.next_page %}
-	<a href="{{ paginator.next_page_path }}" class="next">Next</a>
-	{% endif %}
-</div>
