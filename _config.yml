@@ -1,5 +1,5 @@
 ##The website title
-name: Blog Name
+name: Ruby On Racetracks
 ##Markdown processor
 markdown: kramdown
 ##syntax highlighter. change it to pygments
