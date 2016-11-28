@@ -13,8 +13,8 @@ sitemap:
 
 Installing Ruby on Rails: [Docker](/docker.html)
 
-Creating Ruby Gems
+[Creating Ruby Gems](/create-gem.html)
 
-Creating Rails Apps
+[Creating Rails Apps](/create-app.html)
 
-Creating Rails Apps From Scratch
+[Creating Rails Apps From Scratch](/rails_from_scratch.html)
