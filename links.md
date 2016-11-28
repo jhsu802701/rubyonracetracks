@@ -8,6 +8,10 @@ sitemap:
 ---
 # Links
 
+## Cheat Sheets
+* [Ruby on Rails](https://gist.github.com/jhsu802701/8c81cbfdf3136b1c0387)
+* [Git/GitHub](https://gist.github.com/jhsu802701/33f1eafb14760ed8c262)
+
 ## Docker
 * [Personal Docker repository](https://github.com/jhsu802701/docker-debian-jessie)
 * [Docker repository for OpenTwinCities](https://github.com/OpenTwinCities/docker-debian-jessie)
