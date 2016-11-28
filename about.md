@@ -7,4 +7,9 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # About
-This is a demo ABOUT page. Edit ```about.html``` to change its contents.
+
+Ruby on Racetracks provides productivity in Ruby on Rails development by adhering to these core principles:
+1. Basic and routine tasks should be quick and easy.
+2. A photographic memory should NOT be a requirement.
+3. The same app should behave exactly the same way for everyone, regardless of the operating systems installed on their machines or specific details of their system configurations.
+4. Large tasks should be broken down into many smaller tasks.
