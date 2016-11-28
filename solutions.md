@@ -11,7 +11,7 @@ sitemap:
 [Windows Users](/windows.html)
 
 
-Installing Ruby on Rails: Docker
+Installing Ruby on Rails: [Docker](/docker.html)
 
 Creating Ruby Gems
 
