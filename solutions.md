@@ -8,10 +8,13 @@ sitemap:
 ---
 # Solutions
 
-## Installing Ruby on Rails
+[Windows Users](/windows.html)
 
-## Creating Ruby Gems
 
-## Creating Rails Apps
+Installing Ruby on Rails: Docker
 
-## Creating Rails Apps From Scratch
+Creating Ruby Gems
+
+Creating Rails Apps
+
+Creating Rails Apps From Scratch
