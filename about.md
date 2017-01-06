@@ -8,7 +8,7 @@ sitemap:
 ---
 # About
 
-Ruby on Racetracks provides productivity in Ruby on Rails development by adhering to these core principles:
+Ruby on Racetracks enables faster Ruby on Rails development while doubling down on quality control by adhering to these core principles:
 1. Basic and routine tasks should be quick and easy.
 2. A photographic memory should NOT be a requirement.
 3. The same app should behave exactly the same way for everyone, regardless of the operating systems installed on their machines or specific details of their system configurations.
