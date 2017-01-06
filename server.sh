@@ -9,6 +9,6 @@ echo 'http://<IP Address>:4000'
 echo 'If Docker is installed directly in your host OS, the IP address is localhost.'
 echo 'If you are using Docker Machine, use the IP address is probably 192.168.99.100.'
 echo '*******************************************************************************'
-echo '---------------------------'
-echo 'jekyll serve --host 0.0.0.0'
-jekyll serve --host 0.0.0.0
+echo '---------------------------------------'
+echo 'bundle exec jekyll serve --host 0.0.0.0'
+bundle exec jekyll serve --host 0.0.0.0
