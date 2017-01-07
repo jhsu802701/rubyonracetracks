@@ -39,8 +39,8 @@ Use one of the rbenv-general Docker images.  The rbenv-general Docker images are
 ### What other core elements do you include?
 * There is a 1-step-build script.  After you git clone a Rails app in a fresh Rails development environment, you should be able to set up the app and get all of the tests to pass simply by running this script.  This provides assurance that everything works as expected.
 * There are scripts for other basic tasks, such as starting the local server, making sure you are ready to git add and git commit, entering your credentials, testing the quality of your source code, and deploying your app to Heroku.
-* By default, SSL is be used in the production environment for better security.
-* By default, Puma is be used instead of WEBrick in in the production environment for better capacity.
+* By default, SSL is used in the production environment for better security.
+* By default, Puma is used instead of WEBrick in in the production environment for better capacity.
 * There are safeguards to prevent the accidental deletion or alteration of the database in the production environment.
 * The test suite is enabled, and the command needed to rerun failed tests is be provided in the test output.
 * Capybara is used to provide better integration tests that better simulate what happens at the web browser level.
@@ -52,12 +52,12 @@ Use one of the rbenv-general Docker images.  The rbenv-general Docker images are
 * Database seeding scripts are included so that you can see what admins, users, and the general public will see.
 * Although SQLite is the default development database, there is a script for converting to a secure PostgreSQL setup.  Automating this procedure is important, because I screw it up every time I try to execute it manually.
 * A development environment email server is provided to ensure that the automated email functions work as expected.
-* The rails, pg, and nokogiri gems are pinned to versions pre-installed in the rbenv-general Docker image.  This is done to make sure that the process of setting up the app is quick.
+* The rails, pg, and nokogiri gems are pinned to versions that come pre-installed in the rbenv-general Docker image.  This is done to make sure that the process of setting up the app is quick.
 * All other gems in the Gemfile are pinned as well.  This allows you to update the Gemfile in a series of small steps, which makes troubleshooting easier.
 
 ### Why does your Rails template app look so similar to the Rails Tutorial Sample App?
 * It was much easier to copy the example of the Rails Tutorial Sample App than to create everything from scratch.  This is why I prefer Minitest and Bootstrap.
-* However, I followed a different path when there was a better way or when Rails Tutorial does not address certain issues.  The Devise gem is well-vetted and respected in the Rails community, and the Rails Tutorial Sample App's authentication system was provided for educational purposes.
+* However, I followed a different path when there was a better way or when Rails Tutorial does not address certain issues.  For example, the Devise gem is well-vetted and respected in the Rails community, and the Rails Tutorial Sample App's authentication system was provided for educational purposes.
 
 ### How can the Rails From Scratch procedure be used in legacy projects?
 * The Rails From Scratch procedure doubles as a cheat sheet on elements to add to legacy projects.
