@@ -37,7 +37,7 @@ Use one of the rbenv-general Docker images.  The rbenv-general Docker images are
 * The “bundle viz” command is used to automatically create a block diagram of the required gems and illustrate the relationships among them.
 
 ### What other core elements do you include?
-* There is be a 1-step-build script.  After you git clone a Rails app in a fresh Rails development environment, you should be able to set up the app and get all of the tests to pass simply by running this script.  This provides assurance that everything works as expected.
+* There is a 1-step-build script.  After you git clone a Rails app in a fresh Rails development environment, you should be able to set up the app and get all of the tests to pass simply by running this script.  This provides assurance that everything works as expected.
 * There are scripts for other basic tasks, such as starting the local server, making sure you are ready to git add and git commit, entering your credentials, testing the quality of your source code, and deploying your app to Heroku.
 * By default, SSL is be used in the production environment for better security.
 * By default, Puma is be used instead of WEBrick in in the production environment for better capacity.
