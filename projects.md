@@ -7,6 +7,6 @@ sitemap:
     lastmod: 2014-09-07T16:31:30+05:30
 ---
 # Starting Projects
-* Creating Ruby gems: [GenericGem](generic_gem.html)
+* Creating Ruby gems: [GenericGem](https://github.com/jhsu802701/generic_gem)
 * Creating Rails apps: [GenericApp](https://github.com/jhsu802701/generic_app)
 * Creating a Rails app from scratch: [Rails From Scratch](rails_from_scratch.html)
