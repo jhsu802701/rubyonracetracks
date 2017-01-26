@@ -17,7 +17,13 @@ sitemap:
 ```
 sudo apt-get update; sudo apt-get install -y keepassx geany git sqlitebrowser pgadmin3
 ```
-* Users of non-Debian based Linux: Install KeePassX, Geany, Git, SQLiteBrowser, and pgAdmin.
+* Users of non-Debian based Linux: Install KeePassX, Geany, Git, SQLiteBrowser, and pgAdmin using your distro's package manager.
+* Mac users: Download these programs from their web sites and follow the instructions provided.
+  * KeePassX: [https://www.keepassx.org/](https://www.keepassx.org/)
+  * Geany: [https://www.geany.org/](https://www.geany.org/)
+  * Git: [https://git-scm.com/](https://git-scm.com/)
+  * SQLiteBrowser: [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
+  * pgAdmin: [https://www.pgadmin.org/](https://www.pgadmin.org/)
 * What are these programs for?
   * KeePassX: This is a password management program that allows you to generate, encrypt, and save secure passwords.  Limiting yourself to passwords that you can remember is a security no-no, and so is using the same password everywhere.  KeePassX is free and open source, and it's available for Linux, Mac, and Windows users.
   * Geany: This is a free and open source code editor that is available for Linux, Mac, and Windows users.
