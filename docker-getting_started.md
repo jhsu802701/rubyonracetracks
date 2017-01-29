@@ -44,7 +44,7 @@ sudo apt-get update; sudo apt-get install -y keepassx geany git sqlitebrowser pg
 
 ## Step 3: Install the Docker Repository
 * If you have not already done so, open a command line shell window.
-* Go to (https://github.com/jhsu802701/docker-debian-jessie)[https://github.com/jhsu802701/docker-debian-jessie].
+* Go to [https://github.com/jhsu802701/docker-debian-jessie](https://github.com/jhsu802701/docker-debian-jessie).
 * Download the repository.
 * Run the appropriate script for using your desired Docker image.  
   * For the 32-bit rbenv-general image: Enter the command "sh 32rbenv-general.sh".
