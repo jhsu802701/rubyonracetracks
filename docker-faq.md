@@ -16,3 +16,4 @@ sitemap:
 * [Why don't you still use Vagrant?](docker-vagrant.html)
 * [Why aren't you using Docker in the same manner as everyone else?](docker-everyone_else.html)
 * [Why are you using MX Linux?](why-mx_linux.html)
+* [Why do you support both 64-bit and 32-bit Docker?](docker-64_and_32.html)
