@@ -15,3 +15,4 @@ sitemap:
 * [How do you use Docker?](docker-use.html)
 * [Why don't you still use Vagrant?](docker-vagrant.html)
 * [Why aren't you using Docker in the same manner as everyone else?](docker-everyone_else.html)
+* [Why are you using MX Linux?](why-mx_linux.html)

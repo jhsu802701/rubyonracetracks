@@ -39,7 +39,7 @@ git clone https://github.com/jhsu802701/docker-64bit-debian-jessie-install
 cd docker-64bit-debian-jessie-install
 sh main.sh
 ```
-* The Docker installation script that you run installs not only Docker but other software that you'll need as well.  (Feel free to use a different password manager and different code editor instead.)
+* The Docker installation script that you run installs not only Docker but other software that you'll need as well.  (Feel free to use a different password manager and/or different code editor instead.)
 
 ### Step 3: Download the Docker repository.
 * If you have not already done so, open a command line shell window.
