@@ -48,11 +48,11 @@ git clone https://github.com/jhsu802701/docker-debian-jessie.git
 cd docker-debian-jessie
 ```
 
-### Step 4: Run the appropriate script for using your desired Docker image.
-* For the 32-bit rbenv-general image: Enter the command "sh 32rbenv-general.sh".
-* For the 64-bit rbenv-general image: Enter the command "sh rbenv-general.sh".
+### Step 4: Run the appropriate script for using the general purpose Docker image for Ruby on Rails.
+* If you are in 32-bit MX Linux, enter the command "sh 32rbenv-general.sh".
+* If you are in 64-bit MX Linux, enter the command "sh rbenv-general.sh".
 
-## Step 5: Enter the directory created for the above Docker image, and execute the download_new_image.sh script.
+### Step 5: Enter the directory created for the above Docker image, and execute the download_new_image.sh script.
 * Enter the following commands:
 ```
 cd rbenv-general
