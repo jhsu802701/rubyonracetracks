@@ -15,7 +15,8 @@ sitemap:
 ### Step 1: Install Git and LXTerminal, and remove Xfce Terminal.
 * Open an Xfce terminal, and enter the following commands:
 ```
-sudo apt-get update; sudo apt-get install -y git lxterminal; sudo apt-get purge -y xfce4-terminal
+sudo apt-get update; sudo apt-get install -y git lxterminal
+sudo apt-get purge -y xfce4-terminal
 ```
 * Git is the version control system used by most Ruby on Rails developers.
 * Copying and pasting commands into the terminal is easier with LXTerminal than it is with Xfce terminal.
