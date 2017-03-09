@@ -8,51 +8,52 @@ sitemap:
 ---
 # Getting Started in Docker
 
-## Prerequisites
-* You should be a Linux or Mac user.
-* If getting rid of Windows is not an option, please install a [Linux virtual machine](windows.html).
+### Prerequisites
+* You should have MX Linux (or a similar Debian-based Linux distro) installed.  The instructions provided here and in the associated GitHub repositories are based on the assumption that you are using MX Linux.
+* If you are a Mac or Windows user, please install MX Linux (or a similar Linux distro) on a virtual machine with VirtualBox.
 
-## Step 1: Install KeePassX, Geany, Git, SQLiteBrowser, and pgAdmin.
-* Debian Linux users: Open a command line shell window and enter the following command:
+### Step 1: Install Git and LXTerminal, and remove Xfce Terminal.
+* Open an Xfce terminal, and enter the following commands:
 ```
-sudo apt-get update; sudo apt-get install -y keepassx geany git sqlitebrowser pgadmin3
+sudo apt-get update; sudo apt-get install -y git lxterminal; sudo apt-get purge -y xfce4-terminal
 ```
-* Users of non-Debian based Linux: Install KeePassX, Geany, Git, SQLiteBrowser, and pgAdmin using your distro's package manager.
-* Mac users: Download these programs from their web sites and follow the instructions provided.
-  * KeePassX: [https://www.keepassx.org/](https://www.keepassx.org/)
-  * Geany: [https://www.geany.org/](https://www.geany.org/)
-  * Git: [https://git-scm.com/](https://git-scm.com/)
-  * SQLiteBrowser: [http://sqlitebrowser.org/](http://sqlitebrowser.org/)
-  * pgAdmin: [https://www.pgadmin.org/](https://www.pgadmin.org/)
-* What are these programs for?
-  * KeePassX: This is a password management program that allows you to generate, encrypt, and save secure passwords.  Limiting yourself to passwords that you can remember is a security no-no, and so is using the same password everywhere.  KeePassX is free and open source, and it's available for Linux, Mac, and Windows users.
-  * Geany: This is a free and open source code editor that is available for Linux, Mac, and Windows users.
-  * Git: This is the leading version control program.
-  * SQLiteBrowser: This GUI program will allow you to view the SQLite databases used by Rails apps.
-  * pgAdmin: This GUI program will allow you to view PostgreSQL databases used by Rails apps.
+* Git is the version control system used by most Ruby on Rails developers.
+* Copying and pasting commands into the terminal is easier with LXTerminal than it is with Xfce terminal.
 
-## Step 2: Install Docker.
-* 32-bit Debian Linux users
-  * Go to [https://github.com/jhsu802701/docker-32bit-debian-jessie-install](https://github.com/jhsu802701/docker-32bit-debian-jessie-install), download the repository, and run the main.sh script.
-  * Here are the commands:
-  ```
-  git clone https://github.com/jhsu802701/docker-32bit-debian-jessie-install.git
-  cd docker-32bit-debian-jessie-install
-  sh main.sh
-  ```
-* Mac users and 64-bit Linux users: Go to the [Docker web site](https://www.docker.com/) and follow the instructions for installing Docker.
+### Step 2: Install Docker and other software.
+* Open an LXTerminal window, and enter the following commands:
+```
+mkdir jhsu802701
+cd jhsu802701
+```
+* If you are using 32-bit MX Linux, enter the following commands:
+```
+git clone https://github.com/jhsu802701/docker-32bit-debian-jessie-install
+cd docker-32bit-debian-jessie-install
+sh main.sh
+```
+* If you are using 64-bit MX Linux, enter the following commands:
+```
+git clone https://github.com/jhsu802701/docker-64bit-debian-jessie-install
+cd docker-64bit-debian-jessie-install
+sh main.sh
+```
+* The Docker installation script that you run installs not only Docker but other software that you'll need as well.  (Feel free to use a different password manager and different code editor instead.)
 
-## Step 3: Install the Docker Repository
+### Step 3: Download the Docker repository.
 * If you have not already done so, open a command line shell window.
-* Go to [https://github.com/jhsu802701/docker-debian-jessie](https://github.com/jhsu802701/docker-debian-jessie).
-* Download the repository.
-* Run the appropriate script for using your desired Docker image.  
-  * For the 32-bit rbenv-general image: Enter the command "sh 32rbenv-general.sh".
-  * For the 64-bit rbenv-general image: Enter the command "sh rbenv-general.sh".
-  * NOTE: /bin/sh should point to Bash instead of Dash.  If you get an error message, it's because you're using Dash instead of Bash.  The screen output will include instructions on how to correct this.  If necessary, follow these instructions and run the appropriate script again.
+* Enter the following commands:
+```
+git clone https://github.com/jhsu802701/docker-debian-jessie.git
+cd docker-debian-jessie
+```
 
-## Step 4: Enter the directory created for the above Docker image and enter the download_new_image.sh script.
-* The commands are:
+### Step 4: Run the appropriate script for using your desired Docker image.
+* For the 32-bit rbenv-general image: Enter the command "sh 32rbenv-general.sh".
+* For the 64-bit rbenv-general image: Enter the command "sh rbenv-general.sh".
+
+## Step 5: Enter the directory created for the above Docker image, and execute the download_new_image.sh script.
+* Enter the following commands:
 ```
 cd rbenv-general
 sh download_new_image.sh
