@@ -39,5 +39,3 @@ echo '********************************************************************'
 echo 'If all went well, you have successfully deployed your site to Surge.'
 echo "URL: $URL"
 echo
-echo 'Please continue to follow the instructions in README-to_do.txt for'
-echo 'the Surge option.'
