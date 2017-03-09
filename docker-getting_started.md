@@ -10,12 +10,12 @@ sitemap:
 
 ### Prerequisites
 * You should have MX Linux (or a similar Debian-based Linux distro) installed.  The instructions provided here and in the associated GitHub repositories are based on the assumption that you are using MX Linux.
-* If you are a Mac or Windows user, please install MX Linux (or a similar Linux distro) on a virtual machine with VirtualBox.
+* If you are a [Mac](mac.html) or [Windows](windows.html) user, please install MX Linux (or a similar Linux distro) on a virtual machine with VirtualBox.
 
 ### Step 1: Install Git and LXTerminal, and remove Xfce Terminal.
 * Open an Xfce terminal, and enter the following commands:
 ```
-sudo apt-get update; sudo apt-get install -y git lxterminal
+sudo apt-get update; sudo apt-get install -y git lxterminal;\
 sudo apt-get purge -y xfce4-terminal
 ```
 * Git is the version control system used by most Ruby on Rails developers.
