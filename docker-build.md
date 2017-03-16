@@ -6,7 +6,7 @@ sitemap:
     changefreq: weekly
     lastmod: 2014-09-07T16:31:30+05:30
 ---
-# Getting Started in Docker
+# Building Docker Images
 
 ### Prerequisites
 * You should have MX Linux (or a similar Debian-based Linux distro) installed as the host OS or as a guest OS.  The instructions provided here and in the associated GitHub repositories are based on the assumption that you are using a Debian-based distro.
