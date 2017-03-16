@@ -17,3 +17,5 @@ Docker is the solution for installing Ruby on Rails.  You can get started in min
 [Windows Users](windows.html)
 
 [FAQ](docker-faq.html)
+
+[Building Docker Images](docker-build.html)
