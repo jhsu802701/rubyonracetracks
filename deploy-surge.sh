@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Not setting this environment variable results in the following error
+# in css/style.scss:
+# Invalid US-ASCII character "\xE2"
+export LC_ALL='C.UTF-8'
+
 sh build.sh
 
 # Install Surge if necessary.
