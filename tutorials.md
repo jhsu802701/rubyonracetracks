@@ -19,3 +19,6 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 ## Creating Rails Projects
 * Generic App
 * Rails Neutrino
+
+## Legacy Rails Projects
+* [Adopt-A-Tree](https://gist.github.com/jhsu802701/615a7d3c3883ec36ac89ed12da253c14)
