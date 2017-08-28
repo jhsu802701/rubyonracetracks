@@ -8,7 +8,7 @@ sitemap:
 ---
 # Ruby on Racetracks Tutorials and How-To Guides
 
-Welcome to the tutorials for getting started with Ruby on Racetracks!  These will help you get started.
+Welcome to the tutorials for getting started with Ruby on Racetracks!  These will help you get started.  Do NOT be intimated by the large number of chapters in some tutorials.  Each chapter is kept reasonably short so that you don't lose track of what you're doing.
 
 ## VirtualBox
 [VirtualBox Tutorial](https://github.com/jhsu802701/tutorial_virtualbox)
