@@ -25,6 +25,10 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 ## Creating Ruby Gems
 [How to Create a Ruby Gem](https://github.com/jhsu802701/howto_create_gem)
 
-## Legacy Rails Projects
+## Adding User Profile Pictures
+[Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/jhsu802701/howto_rails_profile_pic)
+
+## Legacy Projects
 * [Adopt-A-Tree](https://gist.github.com/jhsu802701/615a7d3c3883ec36ac89ed12da253c14)
+* [Rails.MN web site](https://gist.github.com/jhsu802701/664e40c2f15e861bd64a3fd639163072) (Jekyll)
 
