@@ -21,12 +21,6 @@ NOTE: This is NOT an endorsement of the travel services advertised.  I simply fo
 The best surprise is no surprise.
 <iframe width="420" height="315" src="http://www.youtube.com/embed/WNh5uY1ePcA"></iframe>
 
-**National Car Rental**
-
-The unofficial theme song for Ruby on Racetracks is "Break My Stride" by Matthew Wilder.  Although Ruby is red instead of green, and this site's slogan parodies a different rental car company, this National Car Rental commercial summarizes what Ruby on Racetracks is about.
-<iframe src="https://player.vimeo.com/video/101956515?color=f15a29&title=0&byline=0&portrait=0" width="500" height="372" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/101956515">National Car Rental - Green Means Go</a> from <a href="https://vimeo.com/user25066752">Industri</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
 **Not Exactly Hertz Commercials**
 
 The "Not Exactly Hertz" commercials inspired my slogan for Ruby on Racetracks.
