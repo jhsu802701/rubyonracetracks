@@ -28,7 +28,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 ## Adding User Profile Pictures
 [Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/jhsu802701/howto_rails_profile_pic)
 
-## The New Ruby.MN (under development)
+## The New Ruby.MN
 * [Tutorial](https://github.com/jhsu802701/tutorial-rails-rubymn2)
 * [Deployment](https://rubymn2.herokuapp.com/)
 
