@@ -33,6 +33,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 * [Deployment](https://rubymn2.herokuapp.com/)
 
 ## Legacy Projects
+* [Ruby on Racetracks Agenda for Legacy Rails Projects](https://gist.github.com/jhsu802701/33e5d3cd0df3118c2c7c9bd8b2701a67)
 * [Adopt-A-Tree](https://gist.github.com/jhsu802701/615a7d3c3883ec36ac89ed12da253c14)
 * [Rails.MN web site](https://gist.github.com/jhsu802701/664e40c2f15e861bd64a3fd639163072) (Jekyll)
 
