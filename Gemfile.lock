@@ -41,7 +41,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
+  ffi (= 1.9.14)
+  jekyll (= 3.3.1)
 
 BUNDLED WITH
-   1.13.6
+   1.16.1
