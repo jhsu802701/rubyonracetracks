@@ -1,4 +1,4 @@
-# The Gemfile is necessary for Netlify.
+ruby '2.4.4'
 
 source 'https://rubygems.org'
 
