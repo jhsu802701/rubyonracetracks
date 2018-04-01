@@ -23,7 +23,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 [Rails Neutrino Tutorial](https://gist.github.com/jhsu802701/107c8acdc4888f4863a9c1f10b7fc1a3)
 
 ## Creating Ruby Gems
-[How to Create a Ruby Gem](https://github.com/jhsu802701/howto_create_gem)
+[How to Create a Ruby Gem](https://github.com/rubyonracetracks/howto_create_gem)
 
 ## Adding User Profile Pictures
 [Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/jhsu802701/howto_rails_profile_pic)
