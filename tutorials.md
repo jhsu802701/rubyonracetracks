@@ -14,7 +14,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 [VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox)
 
 ## Docker
-[Docker Tutorial - Debian Stretch](https://github.com/jhsu802701/tutorial-docker-stretch.md)
+[Docker Tutorial - Debian Stretch](https://github.com/rubyonracetracks/docker-debian-stretch)
 
 ## GenericApp
 [GenericApp Tutorial](https://gist.github.com/jhsu802701/ace85adf7c3f197391c4457dec863e89)
