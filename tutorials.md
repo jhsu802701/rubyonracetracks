@@ -26,7 +26,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 [How to Create a Ruby Gem](https://github.com/rubyonracetracks/howto_create_gem)
 
 ## Adding User Profile Pictures
-[Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/jhsu802701/howto_rails_profile_pic)
+[Ruby on Racetracks Tutorial: Adding User Profile Pictures](https://github.com/rubyonracetracks/tutorial_rails_profile_pic)
 
 ## The New Ruby.MN
 * [Tutorial](https://github.com/jhsu802701/tutorial-rails-rubymn2)
