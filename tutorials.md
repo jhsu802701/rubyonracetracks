@@ -17,10 +17,10 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 [Docker Tutorial - Debian Stretch](https://github.com/rubyonracetracks/docker-debian-stretch)
 
 ## GenericApp
-[GenericApp Tutorial](https://gist.github.com/jhsu802701/ace85adf7c3f197391c4457dec863e89)
+[GenericApp Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/generic_app.md)
 
 ## Rails Neutrino
-[Rails Neutrino Tutorial](https://gist.github.com/jhsu802701/107c8acdc4888f4863a9c1f10b7fc1a3)
+[Rails Neutrino Tutorial](https://github.com/rubyonracetracks/tutorials-rails-short/blob/master/rails_neutrino.md)
 
 ## Creating Ruby Gems
 [How to Create a Ruby Gem](https://github.com/rubyonracetracks/howto_create_gem)
@@ -33,7 +33,7 @@ Welcome to the tutorials for getting started with Ruby on Racetracks!  These wil
 * [Deployment](https://rubymn2.herokuapp.com/)
 
 ## Legacy Projects
-* [Ruby on Racetracks Agenda for Legacy Rails Projects](https://gist.github.com/jhsu802701/33e5d3cd0df3118c2c7c9bd8b2701a67)
+* [Ruby on Racetracks Agenda for Legacy Rails Projects](https://github.com/rubyonracetracks/cheat_sheets/blob/master/rails_legacy_projects.md)
 * [Adopt-A-Tree](https://gist.github.com/jhsu802701/615a7d3c3883ec36ac89ed12da253c14)
 * [Rails.MN web site](https://gist.github.com/jhsu802701/664e40c2f15e861bd64a3fd639163072) (Jekyll)
 
