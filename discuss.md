@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Discuss
 sitemap:
     priority: 1.0
     changefreq: weekly
