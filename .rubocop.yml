@@ -1,6 +1,17 @@
 Style/FrozenStringLiteralComment:
   Enabled: false
 
+# BEGIN: AllCops
+AllCops:
+  Exclude:
+    - _site/tmp/vulnerabilities/*
+    - _site/tmp/vulnerabilities/lib/*
+    - _site/tmp/vulnerabilities/spec/*
+    - tmp/vulnerabilities/*
+    - tmp/vulnerabilities/lib/*
+    - tmp/vulnerabilities/spec/*
+# END: AllCops
+
 # BEGIN: Metrics/LineLength
 Metrics/LineLength:
   Exclude:

@@ -9,6 +9,9 @@ gem 'jekyll', '3.3.1'
 
 # BEGIN: gems for test_code.sh
 group :development, :testing do
-  gem 'rubocop' # Checks for violations of the Ruby Style Guide, not recommended for legacy apps
+  gem 'brakeman', '4.2.1'
+  gem 'bundler-audit', '0.6.0'
+  gem 'gemsurance', '0.9.0'
+  gem 'rubocop', '0.55.0' # Checks for violations of the Ruby Style Guide, not recommended for legacy apps
 end
 # END: gems for test_code.sh

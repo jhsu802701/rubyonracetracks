@@ -5,3 +5,4 @@ nbproject
 .sass-cache
 .bitballoon
 log/*
+tmp/*
