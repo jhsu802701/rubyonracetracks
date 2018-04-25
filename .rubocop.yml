@@ -1,0 +1,9 @@
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+# BEGIN: Metrics/LineLength
+Metrics/LineLength:
+  Exclude:
+    - _site/*
+    - Gemfile
+# END: Metrics/LineLength
