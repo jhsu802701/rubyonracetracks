@@ -10,4 +10,4 @@ sitemap:
 
 [Ruby On Racetracks GitHub Repository](https://github.com/rubyonracetracks)
 <br><br>
-PLEASE NOTE: I am in the process of switching from GitHub to GitLab.  The GitLab URL is https://gitlab.com/rubyonracetracks .
+PLEASE NOTE: I am in the process of switching from GitHub to GitLab.  The GitLab URL is [https://gitlab.com/rubyonracetracks](https://gitlab.com/rubyonracetracks) .
