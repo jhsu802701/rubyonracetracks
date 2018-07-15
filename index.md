@@ -6,8 +6,15 @@ sitemap:
     changefreq: weekly
     lastmod: 2014-09-07T16:31:30+05:30
 ---
+
+# BREAKING NEWS
+
+This site has moved to https://ror-site-docu.netlify.com/ .
+
 # Home
 Welcome to Ruby on Racetracks!
+
+
 
 Ruby on Racetracks combines the power of Ruby on Rails with the speed of NASCAR. Ruby on Rails is a great framework, but the stock procedures are so slow and complicated. Ruby on Racetracks uses an infrastructure that provides the elements needed for all or most projects already pre-installed and thus allows you to bypass many of the slow and bureaucratic steps needed to get started.  Doubling down on automation, cheat sheets, pre-installation, and good standard operating procedures enables not only much faster work but also much better quality control as well.
 
